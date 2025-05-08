@@ -1,5 +1,3 @@
-# CS201FinalProject
-
 ## Overview
 This folder contains the java files Deck, Player, User, Dealer, and Blackjack, which combine to create a simulation of 
 the card game Blackjack. The simulation allows the user to: 
@@ -69,3 +67,4 @@ each time it appears.
 two players in our simulation, turns function in a rotating manner in Blackjack. This means that the Player who has been waiting the 
 longest for their turn should be the next to play. The perfectly aligns with the First In First Out principle that Queues are based on. 
 This property of Queues allows the program to easily identify whether the User or Dealer is next up to play and act accordingly.
+
